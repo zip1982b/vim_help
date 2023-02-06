@@ -114,14 +114,7 @@ Ctrl-w v — тоже, только по вертикали
 Ctrl-w ] — разделить и перейти на определение чего-то, что под курсором
 Ctrl-w f — разделить и в новом окне открыть файл путь к которому находится под курсором, очень удобно делать на инклюдах
 
+:NERDTreeToggle - открыть дерево каталогов (после установки плагина)
 
 
 
-
-Hello ZHAN! How are you? No bad thanks!
-a f
-a f dfsk asfksl fkf  asfkj asd f
- j f j fas 
- jiaffaslfjasf
- lajflaf
-lsfjlafljlajfkljlfjljafljljfjklfld
